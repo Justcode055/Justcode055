@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./Landscape_selfie.jpg" alt="Hein Zaw" width="220" />
+  <img src="./Landscape_selfie.jpg" alt="Hein Zaw" width="2800" />
 </p>
 
 I’m Hein Zaw, a software engineering student at Mae Fah Luang University, currently exploring the exciting world of software development and emerging technologies.
